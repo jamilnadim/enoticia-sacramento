@@ -1,0 +1,81 @@
+# Pastas do Git
+.git/
+
+# VS Code
+.vscode/
+COMANDOS2.TXT
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependências (se usar)
+node_modules/
+vendor/
+
+# Arquivos de ambiente / senhas
+.env
+.env.*
+
+# Cache
+.cache/
+.tmp/
+
+# Build (se existir)
+dist/
+build/
+
+# Backup local
+*.bak
+*.old
+*.zip
+
+# Backup do Git antigo
+git_antigo_temporario/
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Backups e versões antigas
+BKP/
+Nova pasta/
+*BKP*
+*.bak
+*.old
+
+# Documentos de trabalho
+*.docx
+*.doc
+*.psd
+
+# Backup do Git antigo
+git_antigo_temporario/
+
+# Cópias e versões antigas
+**/Nova pasta/
+**/*BKP*
+**/*bkp*
+**/*backup*
+
+# Documentos de trabalho
+*.docx
+*.doc
+*.psd
+
+
+# Pasta de conferência temporária
+conferencia_sicredi/git add .gitignore
+
+
+# Cópias de segurança dos repositórios Git
+git_backup_antes_recriacao/
+git_antigo_temporario/
+git_backup/
+
+/conferencia_sicredi/
